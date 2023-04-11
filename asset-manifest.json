@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mycookylater/static/css/main.073c9b0a.css",
+    "main.js": "/mycookylater/static/js/main.9216718e.js",
+    "static/js/787.5b45eed9.chunk.js": "/mycookylater/static/js/787.5b45eed9.chunk.js",
+    "static/media/logo.svg": "/mycookylater/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mycookylater/index.html",
+    "main.073c9b0a.css.map": "/mycookylater/static/css/main.073c9b0a.css.map",
+    "main.9216718e.js.map": "/mycookylater/static/js/main.9216718e.js.map",
+    "787.5b45eed9.chunk.js.map": "/mycookylater/static/js/787.5b45eed9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9216718e.js"
+  ]
+}
